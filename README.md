@@ -1,12 +1,19 @@
 # Contact List
 
 ## About The Project
-In this project i learn about Recycler View in kotlin. This app have a features such as Splash Screen, Sign In Page, Sign Up Page, Main Page, and Item List Page. 
+In this project i created a contactlist application by implementing a recycler view using Kotlin.
 
 ## Build With
 * Kotlin
 * NoSQL
-  
+
+## Features
+* Splashscreen
+* Sign in
+* Sign up
+* Main page
+* List page
+
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
